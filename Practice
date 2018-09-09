@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html lang ="en">
+    <head>
+        <meta charset = "utf-8">
+        <meta name ="description" content="A page for friends who code">
+        <title>
+            Coding Buddies
+        </title>
+    
+    </head>
+    <body>
+        <h1>About Us</h1>
+        <p><b><i>Coding Buddies</i></b> is an idea birthed by students <br>from the Udacity Data Science Challenge Scholarship <br> sponsored by Beterlsmann.</p>
+    </body>
+
+</html>
